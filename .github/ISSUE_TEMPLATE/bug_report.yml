@@ -8,8 +8,8 @@ body:
     attributes:
       label: GAME
       placeholder: e.g. The Apartment
-      validations:
-       required: true
+    validations:
+      required: true
        
   - type: textarea
     id: description
